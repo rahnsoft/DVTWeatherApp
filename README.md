@@ -9,7 +9,7 @@
 > A beautifully crafted iOS weather application that exactly resembles the iPhone Weather app with enhanced features and modern architecture.
 
 <div align="center">
-  <img src="assets/app-preview.png" alt="Weather App Preview" width="800">
+  <img src="assets/app-preview.PNG" alt="Weather App Preview" width="800">
 </div>
 
 ## ✨ Features
@@ -46,7 +46,7 @@ Following the **Forest Design** specification from the DVT assessment, this app 
 - Intuitive navigation patterns
 
 <div align="center">
-  <img src="assets/design-showcase.png" alt="Design Showcase" width="600">
+  <img src="assets/design-showcase.PNG" alt="Design Showcase" width="600">
 </div>
 
 ## 🏗️ Architecture
@@ -142,10 +142,10 @@ OpenWeatherMapAPIKey: "your_openweather_api_key"
 <div align="center">
   <table>
     <tr>
-      <td><img src="assets/home-screen.png" width="200" alt="Weather Home Screen"></td>
-      <td><img src="assets/favorites-edit.png" width="200" alt="Edit Favorites"></td>
-      <td><img src="assets/current-weather-detail.png" width="200" alt="Current Weather Details"></td>
-      <td><img src="assets/location-search.png" width="200" alt="Location Search"></td>
+      <td><img src="assets/home-screen.PNG" width="200" alt="Weather Home Screen"></td>
+      <td><img src="assets/favorites-edit.PNG" width="200" alt="Edit Favorites"></td>
+      <td><img src="assets/current-weather-detail.PNG" width="200" alt="Current Weather Details"></td>
+      <td><img src="assets/location-search.PNG" width="200" alt="Location Search"></td>
     </tr>
     <tr>
       <td align="center"><b>Multi-City Dashboard</b></td>
@@ -160,10 +160,10 @@ OpenWeatherMapAPIKey: "your_openweather_api_key"
 <div align="center">
   <table>
     <tr>
-      <td><img src="assets/map-overview.png" width="200" alt="Weather Map Overview"></td>
-      <td><img src="assets/map-layer-menu.png" width="200" alt="Map Layer Selection"></td>
-      <td><img src="assets/map-temperature-layer.png" width="200" alt="Temperature Layer"></td>
-      <td><img src="assets/map-clouds-layer.png" width="200" alt="Cloud Cover Layer"></td>
+      <td><img src="assets/map-overview.PNG" width="200" alt="Weather Map Overview"></td>
+      <td><img src="assets/map-layer-menu.PNG" width="200" alt="Map Layer Selection"></td>
+      <td><img src="assets/map-temperature-layer.PNG" width="200" alt="Temperature Layer"></td>
+      <td><img src="assets/map-clouds-layer.PNG" width="200" alt="Cloud Cover Layer"></td>
     </tr>
     <tr>
       <td align="center"><b>Interactive Weather Map</b></td>
@@ -178,10 +178,10 @@ OpenWeatherMapAPIKey: "your_openweather_api_key"
 <div align="center">
   <table>
     <tr>
-      <td><img src="assets/location-details.png" width="200" alt="Location Details Modal"></td>
-      <td><img src="assets/clear-sky-background.png" width="200" alt="Clear Sky Background"></td>
-      <td><img src="assets/map-wind-layer.png" width="200" alt="Wind Pattern Layer"></td>
-      <td><img src="assets/add-location.png" width="200" alt="Add New Location"></td>
+      <td><img src="assets/location-details.PNG" width="200" alt="Location Details Modal"></td>
+      <td><img src="assets/clear-sky-background.PNG" width="200" alt="Clear Sky Background"></td>
+      <td><img src="assets/map-wind-layer.PNG" width="200" alt="Wind Pattern Layer"></td>
+      <td><img src="assets/add-location.PNG" width="200" alt="Add New Location"></td>
     </tr>
     <tr>
       <td align="center"><b>Location Details</b></td>

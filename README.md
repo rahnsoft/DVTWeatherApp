@@ -9,7 +9,7 @@
 > A beautifully crafted iOS weather application that exactly resembles the iPhone Weather app with enhanced features and modern architecture.
 
 <div align="center">
-  <img src="assets/app-preview.PNG" alt="Weather App Preview" width="800">
+  <img src="assets/current-weather-detail.PNG" alt="Weather App Preview" width="800">
 </div>
 
 ## ✨ Features
@@ -46,7 +46,7 @@ Following the **Forest Design** specification from the DVT assessment, this app 
 - Intuitive navigation patterns
 
 <div align="center">
-  <img src="assets/design-showcase.PNG" alt="Design Showcase" width="600">
+  <img src="assets/map-clouds-layer.PNG" alt="Design Showcase" width="600">
 </div>
 
 ## 🏗️ Architecture
@@ -116,8 +116,8 @@ Following the **Forest Design** specification from the DVT assessment, this app 
 
 1. **Clone the repository**
 ```bash
-git clone https://github.com/yourusername/dvt-weather-app.git
-cd dvt-weather-app
+git clone https://github.com/rahnsoft/DVTWeatherApp.git
+cd DVTWeatherApp
 ```
 
 2. **Install dependencies**
@@ -129,7 +129,20 @@ open WeatherApp.xcodeproj
 3. **Configure API Keys**
 ```swift
 // Create APIKeys.plist with your OpenWeatherMap API key
-OpenWeatherMapAPIKey: "your_openweather_api_key"
+Create infoConfig.plist in the Data Framework and add 
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>BaseUrl</key>
+	<string>https://api.openweathermap.org/data/2.5/</string>
+	<key>GeoUrl</key>
+	<string>https://api.openweathermap.org/geo/1.0/</string>
+	<key>OPENWEATHER_API_KEY</key>
+	<string>your_openweather_api_key</string>
+</dict>
+</plist>
+
 ```
 
 4. **Build and run**

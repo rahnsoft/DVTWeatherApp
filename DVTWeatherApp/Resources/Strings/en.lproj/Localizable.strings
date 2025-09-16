@@ -1,0 +1,55 @@
+
+// MARK: Common
+"Common_title" = "Blockto";
+"Common_Home" = "Home";
+"Common_Save" = "Save";
+"Common_Okay" = "Okay";
+"Common_Cancel" = "Cancel";
+"Common_GotIt" = "Ok, got it";
+"Common_Continue" = "Continue";
+"Common_TryAgain" = "Try again";
+"Common_TryAgain_Count" = "Try again ( %@ )";
+"Common_TryAgainLater" = "TRY AGAIN LATER";
+"Common_Retry" = "Retry";
+"Common_Total" = "Total";
+"Common_Info" = "Info";
+"Common_Proceed" = "Proceed";
+"Common_Verify" = "Verify";
+"Common_Send_Again" = "Resend";
+"Common_Terms_Conditions" = "Terms & Conditions";
+"Common_Name" = "Name";
+"Common_email" = "Email address";
+"Common_something_went_wrong" = "Oops! Something went wrong.";
+"Common_we_hit_a_snag" = "We hit a snag while trying to load this screen. Please try again.";
+"Common_You_ve_been_logged_out" = "You've been logged out.";
+"Common_signed_out" = "For your security, you’ve been signed out due to session timeout, or inactivity.";
+"Common_favourites" = "Favourites";
+"Common_skip" = "Skip";
+
+// MARK: Errors
+"Common_GeneralError" = "There was an error";
+"Common_InternetError" = "No Internet connection";
+"Common_InternetError_Desc" = "No internet connection. Please try again";
+"Invalid_PhoneNumber" = "Please enter valid phone number";
+"Invalid_Bill_Number" = "Please enter valid %@ number";
+"Common_check_internet" = "Please check your network settings. We'll reconnect automatically once you're back online.";
+
+// MARK: Get Startted
+
+"Get_Started_one_title" = "Buy the best crypto in the market";
+"Get_Started_one_subTitle" = "Track the best cryptos and coins of your choice for trading. The best crypto coins out there are here on Blockto";
+"Get_Started_two_title" = "Track your favourite cryptos and coins";
+"Get_Started_tow_subTitle" = "Favourite your best cryptos and coins to track their prices easily. You can also add your own custom coins";
+"Get_Started_three_title" = "Create portfolio of different assets";
+"Get_Started_three_subTitle" = "Create your own portfolio of different assets to track your investments and make informed decisions";
+"Get_Started" = "Get started";
+"Get_Started!" = "Get started!";
+"weather_tab" = "Weather";
+"forecast_tab" = "Forecast";
+"favorites_tab" = "Favorites";
+"map_tab" = "Map";
+
+"loading_weather" = "Loading weather data...";
+"retry" = "Retry";
+"offline_message" = "Offline - Showing cached data";
+"Favorite_saved" = "Favorite saved successfully.";

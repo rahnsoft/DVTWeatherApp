@@ -142,16 +142,52 @@ OpenWeatherMapAPIKey: "your_openweather_api_key"
 <div align="center">
   <table>
     <tr>
-      <td><img src="assets/screenshot-current.png" width="200" alt="Current Weather"></td>
-      <td><img src="assets/screenshot-forecast.png" width="200" alt="5-Day Forecast"></td>
-      <td><img src="assets/screenshot-map.png" width="200" alt="Map View"></td>
-      <td><img src="assets/screenshot-favorites.png" width="200" alt="Favorites"></td>
+      <td><img src="assets/home-screen.png" width="200" alt="Weather Home Screen"></td>
+      <td><img src="assets/favorites-edit.png" width="200" alt="Edit Favorites"></td>
+      <td><img src="assets/current-weather-detail.png" width="200" alt="Current Weather Details"></td>
+      <td><img src="assets/location-search.png" width="200" alt="Location Search"></td>
     </tr>
     <tr>
-      <td align="center"><b>Current Weather</b></td>
-      <td align="center"><b>5-Day Forecast</b></td>
-      <td align="center"><b>Interactive Map</b></td>
-      <td align="center"><b>Favorites List</b></td>
+      <td align="center"><b>Multi-City Dashboard</b></td>
+      <td align="center"><b>Favorites Management</b></td>
+      <td align="center"><b>Weather Details</b></td>
+      <td align="center"><b>Location Search</b></td>
+    </tr>
+  </table>
+</div>
+
+### Weather Map Features
+<div align="center">
+  <table>
+    <tr>
+      <td><img src="assets/map-overview.png" width="200" alt="Weather Map Overview"></td>
+      <td><img src="assets/map-layer-menu.png" width="200" alt="Map Layer Selection"></td>
+      <td><img src="assets/map-temperature-layer.png" width="200" alt="Temperature Layer"></td>
+      <td><img src="assets/map-clouds-layer.png" width="200" alt="Cloud Cover Layer"></td>
+    </tr>
+    <tr>
+      <td align="center"><b>Interactive Weather Map</b></td>
+      <td align="center"><b>Layer Selection</b></td>
+      <td align="center"><b>Temperature Overlay</b></td>
+      <td align="center"><b>Cloud Cover Overlay</b></td>
+    </tr>
+  </table>
+</div>
+
+### Dynamic Weather Backgrounds
+<div align="center">
+  <table>
+    <tr>
+      <td><img src="assets/location-details.png" width="200" alt="Location Details Modal"></td>
+      <td><img src="assets/clear-sky-background.png" width="200" alt="Clear Sky Background"></td>
+      <td><img src="assets/map-wind-layer.png" width="200" alt="Wind Pattern Layer"></td>
+      <td><img src="assets/add-location.png" width="200" alt="Add New Location"></td>
+    </tr>
+    <tr>
+      <td align="center"><b>Location Details</b></td>
+      <td align="center"><b>Clear Sky Theme</b></td>
+      <td align="center"><b>Wind Patterns</b></td>
+      <td align="center"><b>Add to Favorites</b></td>
     </tr>
   </table>
 </div>

@@ -246,8 +246,8 @@ The app leverages multiple OpenWeatherMap APIs for comprehensive weather functio
 
 - **Current Weather API** - `https://openweathermap.org/current`
 - **5-Day Forecast API** - `https://openweathermap.org/forecast5`
-- **Direct Geocoding API** - `https://openweathermap.org/api/geocoding-api`
-- **Map Layers API** - `https://openweathermap.org/api/weather-map-2`
+- **Direct Geocoding API** - `https://api.openweathermap.org/geo/1.0`
+- **Map Layers API** - `https://tile.openweathermap.org/map/\{layer_type}/{z}/{x}/{y}.png?appid=\(apiKey)`
 
 ### Weather Data Layers
 The app supports multiple weather visualization layers:
